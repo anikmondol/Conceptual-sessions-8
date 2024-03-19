@@ -15,21 +15,36 @@
 
 
 
-const num = [23, 43, 2, 5, 346, 203, 2];
+// const num = [23, 43, 2, 5, 346, 203, 2];
 
-let sumOfOdd = 0;
-let sumOfEven = 0;
+// let sumOfOdd = 0;
+// let sumOfEven = 0;
 
-for(let i = 0; i < num.length; i++){
-    const x = num[i];
+// for(let i = 0; i < num.length; i++){
+//     const x = num[i];
 
 
-    if(x % 2 === 1){
-        sumOfOdd += x;
-    }else{
-        sumOfEven += x;
-    }
-}
+//     if(x % 2 === 1){
+//         sumOfOdd += x;
+//     }else{
+//         sumOfEven += x;
+//     }
+// }
 
-console.log(sumOfEven);
-console.log(sumOfOdd);
+// console.log(sumOfEven);
+// console.log(sumOfOdd);
+
+
+// const num = [23, 43, 2, 5, 346, 203, 2];
+
+
+// for(const item of num){
+//     console.log(item);
+// }
+
+
+
+
+
+
+
